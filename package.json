@@ -1,0 +1,34 @@
+{
+  "name": "javascript-sandbox",
+  "version": "1.0.0",
+  "description": "JavaScript Sandbox - VS Code imitation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "node server.js",
+    "client": "cd client && npm start",
+    "kill": "taskkill /f /im node.exe 2>nul",
+    "restart": "npm run kill && npm run dev"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-rate-limit": "^8.1.0",
+    "express-slow-down": "^3.0.0",
+    "helmet": "^8.1.0",
+    "vm2": "^3.9.19"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "javascript",
+    "sandbox",
+    "vscode",
+    "editor"
+  ],
+  "author": "Quickell",
+  "license": "MIT"
+}
