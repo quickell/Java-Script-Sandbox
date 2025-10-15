@@ -37,7 +37,11 @@ Installation:
 -- npm run dev
 
 # Console Controls
+
 <img width="220" height="59" alt="image" src="https://github.com/user-attachments/assets/e0379d69-fe2c-420a-b633-26d0ccb06a68" />
+
+
+
 
 
 
@@ -47,8 +51,11 @@ Action	Description:
 🔒 Lock	Prevent accidental repositioning.
 🧹 Clear	Clear console output.
 ⬇️ Minimize	Hide or show console.
+
 # Project Structure
 <img width="420" height="228" alt="image" src="https://github.com/user-attachments/assets/6b79d0fb-2457-4ecd-b33f-b7f877f52a22" />
+
+
 
 
 
@@ -88,6 +95,7 @@ Rate Limiting – Throttles excessive requests.
 # License:
 This project is licensed under the MIT License.
 # Made with <3 by quickell.
+
 
 
 
