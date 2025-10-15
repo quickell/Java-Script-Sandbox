@@ -24,7 +24,7 @@ Modern Aesthetic –> Clean, fluid, and professional UI.
 
 Installation:
 [Clone the repository]
--- git clone https://github.com/yourusername/javascript-sandbox.git
+-- git clone [https://github.com/yourusername/javascript-sandbox.git](https://github.com/quickell/Java-Script-Sandbox)
 -- cd javascript-sandbox
 
 [Install dependencies]
@@ -40,15 +40,22 @@ Installation:
 <img width="220" height="59" alt="image" src="https://github.com/user-attachments/assets/e0379d69-fe2c-420a-b633-26d0ccb06a68" />
 
 
-[Action	Description:]
+
+
+Action	Description:
 🔄 Position	Move console to top, bottom, left or right.
 🔒 Lock	Prevent accidental repositioning.
 🧹 Clear	Clear console output.
 ⬇️ Minimize	Hide or show console.
 # Project Structure
 <img width="420" height="228" alt="image" src="https://github.com/user-attachments/assets/6b79d0fb-2457-4ecd-b33f-b7f877f52a22" />
+
+
+
+
+
 # Tech Stack:
-[Frontend:]
+Frontend:
 React
  – UI framework
 Monaco Editor
@@ -59,7 +66,7 @@ React Icons
  – Icon set
 Axios
  – API communication
-[Backend:]
+Backend:
 Express.js
  – Web framework
 VM2
@@ -81,6 +88,7 @@ Rate Limiting – Throttles excessive requests.
 # License:
 This project is licensed under the MIT License.
 # Made with <3 by quickell.
+
 
 
 
